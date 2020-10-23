@@ -1,0 +1,1 @@
+Local playground for project euler solutions
